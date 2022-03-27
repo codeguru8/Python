@@ -1,0 +1,5 @@
+text=input('Enter your text: ')
+print('Your text is: ', text )
+text1=input('Enter the text to remove: ')
+text2=input('Enter the text to replace: ')
+print(text.replace(text1,text2))
